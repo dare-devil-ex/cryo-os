@@ -3,6 +3,6 @@
   "app_version": "1.0.0",
   "changelog": "• Improved performance",
   "rom": "<ROM URL>",
-  "romUpdate": "false",
+  "romUpdate": "true",
   "app_download": "<APP DOWNLOAD URL>"
 }
