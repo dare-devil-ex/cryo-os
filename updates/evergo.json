@@ -1,7 +1,7 @@
 {
   "rom_version": "18.0.0UPMINX",
-  "app_version": "1.0.0",
-  "changelog": "• Improved performance",
+  "app_version": "1.0.1",
+  "changelog": "- Improved performance\n- Still under the development",
   "rom": "<ROM URL>",
   "romUpdate": "true",
   "app_download": "<APP DOWNLOAD URL>"
