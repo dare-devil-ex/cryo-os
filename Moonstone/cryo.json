@@ -1,6 +1,7 @@
 {
   "rom_version": "18.0.0UPMINX",
-  "app_version": "1.0.0",
+  "app_version": "1.0.1",
   "changelog": "• Improved performance",
-  "rom": "https://t.me/dare_devil_ex"
+  "rom": "<ROM URL>",
+  "app_download": "<APP DOWNLOAD URL>"
 }
